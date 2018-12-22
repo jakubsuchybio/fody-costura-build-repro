@@ -1,0 +1,1 @@
+# fody-costura-build-repro
